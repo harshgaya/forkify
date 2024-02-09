@@ -9,10 +9,10 @@
   "author": "Harsh",
   "license": "ISC",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.10.3",
-    "parcel": "^2.10.3"
+    "@parcel/transformer-sass": "^2.11.0",
+    "parcel": "^2.11.0"
   },
-  "dependencies": {
+  "dependencies": { 
     "fractional": "^1.0.0"
   }
 }
